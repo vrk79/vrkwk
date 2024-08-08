@@ -1,0 +1,30 @@
+{
+    "server": {
+        "port": 8003
+    },
+    "app": {
+        "apiPrefix" : "",
+        "url": "http://localhost"
+    },
+    "credentials": {
+        "apikey": "06gPc4DlNIkUIk4DBxXW490IcjauR/8dNwGfC2jUN+w=",
+        "appId": "cs-a76171a2-0238-5d05-ad33-2b7851e175b9",
+        "st-67890":{
+            "apikey": "",
+            "appId": ""
+        }
+    },
+    "redis": {
+        "options": {
+            "host": "localhost",
+            "port": 6379
+        },
+        "available": false
+    },
+    "examples" : {
+        "mockServicesHost"  : "http://localhost:8004"
+    },
+    "liveagentlicense": "8947569",
+    "supportsMessageAck": true,
+    "languages":["en","de"]
+}
